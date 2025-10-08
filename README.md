@@ -1,4 +1,5 @@
 Time Prodomo
+Mã SV 22IT090
 
 Ứng dụng React Native sử dụng Expo để tạo bộ đếm thời gian làm việc và nghỉ ngơi.
 Các thư viện sử dụng:
